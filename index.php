@@ -1,6 +1,6 @@
 <?php
 // czyli wprowadza pan jakies zmiany w plikach itd itp
-// jeszcze jeden comit
+// jeszcze jeden comit2
 /*
 PikoCMS v0.9.7
 Autor: Mendax - http://www.fabrykaspamu.pl
