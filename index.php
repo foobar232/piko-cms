@@ -1,4 +1,5 @@
 <?php
+// czyli wprowadza pan jakies zmiany w plikach itd itp
 /*
 PikoCMS v0.9.7
 Autor: Mendax - http://www.fabrykaspamu.pl
